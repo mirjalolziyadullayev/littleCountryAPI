@@ -1,46 +1,57 @@
 [
     {
         "id": 1,
-        "name": "Samarqand"
+        "name": "Samarqand",
+        "description": "Historic city on the Silk Road, known for its stunning Islamic architecture and cultural significance."
     },
     {
         "id": 2,
-        "name": "Bukhara"
+        "name": "Bukhara",
+        "description": "Ancient city with well-preserved historic buildings, including mosques, madrasas, and mausoleums."
     },
     {
         "id": 3,
-        "name": "Khiva"
+        "name": "Khiva",
+        "description": "Well-preserved ancient city with a unique architectural ensemble, reflecting its Silk Road heritage."
     },
     {
         "id": 4,
-        "name": "Shakhrisabz"
+        "name": "Shakhrisabz",
+        "description": "Birthplace of Timur, featuring historic monuments and UNESCO-listed sites, showcasing Central Asian culture."
     },
     {
         "id": 5,
-        "name": "Tashkent"
+        "name": "Tashkent",
+        "description": "Capital city and cultural hub, blending modernity with historic sites, vibrant markets, and green spaces."
     },
     {
         "id": 6,
-        "name": "Termez"
+        "name": "Termez",
+        "description": "Historic city with archaeological sites, Buddhist ruins, and a rich cultural heritage."
     },
     {
         "id": 7,
-        "name": "Nukus"
+        "name": "Nukus",
+        "description": "Cultural center with the Savitsky Museum, housing a unique collection of Soviet avant-garde art."
     },
     {
         "id": 8,
-        "name": "Ferghana"
+        "name": "Ferghana",
+        "description": "Valley region known for its fertile landscapes, traditional crafts, and historical significance."
     },
     {
         "id": 9,
-        "name": "Tashkent"
+        "name": "Tashkent",
+        "description": "Capital city and cultural hub, blending modernity with historic sites, vibrant markets, and green spaces."
     },
     {
         "id": 10,
-        "name": "Jizzah"
+        "name": "Jizzah",
+        "description": "City with a rich history and cultural heritage, featuring historic landmarks and traditional architecture."
     },
     {
         "id": 11,
-        "name": "Navoiy"
+        "name": "Navoiy",
+        "description": "City named after the famous poet and mystic Alisher Navoi, with historical and cultural attractions."
     }
 ]
