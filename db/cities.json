@@ -1,82 +1,102 @@
 [
     {
         "id": 1,
-        "name": "Tokyo"
+        "name": "Tokyo",
+        "description": "Vibrant metropolis known for its high-tech innovations and historic temples."
     },
     {
         "id": 2,
-        "name": "New York City"
+        "name": "New York City",
+        "description": "The city that never sleeps, famous for its iconic skyline and diverse culture."
     },
     {
         "id": 3,
-        "name": "Paris"
+        "name": "Paris",
+        "description": "City of love and lights, renowned for its art, fashion, and romantic ambiance."
     },
     {
         "id": 4,
-        "name": "London"
+        "name": "London",
+        "description": "Historic capital with a blend of modernity, home to iconic landmarks and rich culture."
     },
     {
         "id": 5,
-        "name": "Beijing"
+        "name": "Beijing",
+        "description": "Ancient city with a mix of imperial history and modern architecture."
     },
     {
         "id": 6,
-        "name": "Rome"
+        "name": "Rome",
+        "description": "Eternal City known for its ancient ruins, art, and delicious cuisine."
     },
     {
         "id": 7,
-        "name": "Rio de Janeiro"
+        "name": "Rio de Janeiro",
+        "description": "Spectacular coastal city famous for its carnival, beaches, and vibrant energy."
     },
     {
         "id": 8,
-        "name": "Sydney"
+        "name": "Sydney",
+        "description": "Harbor city with iconic landmarks, beautiful beaches, and a relaxed lifestyle."
     },
     {
         "id": 9,
-        "name": "Dubai"
+        "name": "Dubai",
+        "description": "Modern marvel in the desert known for luxury shopping, futuristic architecture, and entertainment."
     },
     {
         "id": 10,
-        "name": "Mumbai"
+        "name": "Mumbai",
+        "description": "Bustling metropolis and Bollywood hub with a mix of tradition and modernity."
     },
     {
         "id": 11,
-        "name": "Shanghai"
+        "name": "Shanghai",
+        "description": "Dynamic city showcasing modern skyscrapers, historic sites, and cultural attractions."
     },
     {
         "id": 12,
-        "name": "Los Angeles"
+        "name": "Los Angeles",
+        "description": "Entertainment capital with Hollywood glamour, beaches, and diverse neighborhoods."
     },
     {
         "id": 13,
-        "name": "Berlin"
+        "name": "Berlin",
+        "description": "Cultural hub known for its history, art scene, and vibrant nightlife."
     },
     {
         "id": 14,
-        "name": "Moscow"
+        "name": "Moscow",
+        "description": "Capital of Russia with iconic landmarks, rich history, and cultural treasures."
     },
     {
         "id": 15,
-        "name": "Cairo"
+        "name": "Cairo",
+        "description": "Historic city on the Nile known for its ancient pyramids, Sphinx, and vibrant bazaars."
     },
     {
         "id": 16,
-        "name": "Toronto"
+        "name": "Toronto",
+        "description": "Diverse city with a mix of cultures, iconic CN Tower, and beautiful waterfront."
     },
     {
         "id": 17,
-        "name": "Seoul"
+        "name": "Seoul",
+        "description": "Modern metropolis with a blend of traditional palaces, tech centers, and vibrant street life."
     },
     {
         "id": 18,
-        "name": "Mexico City"
+        "name": "Mexico City",
+        "description": "Capital city with a rich history, vibrant culture, and delicious cuisine."
     },
     {
         "id": 19,
-        "name": "Istanbul"
+        "name": "Istanbul",
+        "description": "City straddling two continents, known for its historic architecture and vibrant markets."
     },
     {
         "id": 20,
-        "name": "Bangkok"
+        "name": "Bangkok",
+        "description": "Bustling capital with vibrant street life, ornate temples, and bustling markets."
     }
 ]
