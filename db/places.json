@@ -1,42 +1,52 @@
 [
     {
         "id": 1,
-        "name": "Samarkand Registan Square"
+        "name": "Samarkand Registan Square",
+        "description": "Historical square with stunning Islamic architecture and vibrant cultural significance."
     },
     {
         "id": 2,
-        "name": "Ichan Kala, Khiva"
+        "name": "Ichan Kala, Khiva",
+        "description": "Ancient walled city with well-preserved architecture, reflecting Silk Road history."
     },
     {
         "id": 3,
-        "name": "Shah-i-Zinda, Samarkand"
+        "name": "Shah-i-Zinda, Samarkand",
+        "description": "Necropolis with mausoleums adorned with intricate tilework, showcasing Persian influence."
     },
     {
         "id": 4,
-        "name": "Tashkent Old Town"
+        "name": "Tashkent Old Town",
+        "description": "Charming area with narrow streets, traditional houses, and historic landmarks."
     },
     {
         "id": 5,
-        "name": "Fayaztepa, Termez"
+        "name": "Fayaztepa, Termez",
+        "description": "Archaeological site with Buddhist ruins, offering insights into ancient civilizations."
     },
     {
         "id": 6,
-        "name": "Ayaz Kala, Nukus"
+        "name": "Ayaz Kala, Nukus",
+        "description": "Ancient fortress in the Kyzylkum Desert, providing panoramic views of the surrounding landscape."
     },
     {
         "id": 7,
-        "name": "Ferghana Valley"
+        "name": "Ferghana Valley",
+        "description": "Fertile valley known for its scenic landscapes, traditional crafts, and historical significance."
     },
     {
         "id": 8,
-        "name": "Chorsu Bazaar, Tashkent"
+        "name": "Chorsu Bazaar, Tashkent",
+        "description": "Vibrant market offering a wide variety of goods, reflecting the local culture and cuisine."
     },
     {
         "id": 9,
-        "name": "Jizzakh Fortress"
+        "name": "Jizzakh Fortress",
+        "description": "Historic fortress with architectural significance, showcasing the region's history."
     },
     {
         "id": 10,
-        "name": "Nuratau-Kyzylkum Biosphere Reserve"
+        "name": "Nuratau-Kyzylkum Biosphere Reserve",
+        "description": "Biosphere reserve preserving the diverse ecosystems of Nuratau-Kyzylkum, a haven for nature enthusiasts."
     }
 ]
