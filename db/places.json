@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Samarkand Registan Square"
+    },
+    {
+        "id": 2,
+        "name": "Ichan Kala, Khiva"
+    },
+    {
+        "id": 3,
+        "name": "Shah-i-Zinda, Samarkand"
+    },
+    {
+        "id": 4,
+        "name": "Tashkent Old Town"
+    },
+    {
+        "id": 5,
+        "name": "Fayaztepa, Termez"
+    },
+    {
+        "id": 6,
+        "name": "Ayaz Kala, Nukus"
+    },
+    {
+        "id": 7,
+        "name": "Ferghana Valley"
+    },
+    {
+        "id": 8,
+        "name": "Chorsu Bazaar, Tashkent"
+    },
+    {
+        "id": 9,
+        "name": "Jizzakh Fortress"
+    },
+    {
+        "id": 10,
+        "name": "Nuratau-Kyzylkum Biosphere Reserve"
+    }
+]

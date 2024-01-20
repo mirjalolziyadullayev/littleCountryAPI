@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Samarqand"
+    },
+    {
+        "id": 2,
+        "name": "Bukhara"
+    },
+    {
+        "id": 3,
+        "name": "Khiva"
+    },
+    {
+        "id": 4,
+        "name": "Shakhrisabz"
+    },
+    {
+        "id": 5,
+        "name": "Tashkent"
+    },
+    {
+        "id": 6,
+        "name": "Termez"
+    },
+    {
+        "id": 7,
+        "name": "Nukus"
+    },
+    {
+        "id": 8,
+        "name": "Ferghana"
+    },
+    {
+        "id": 9,
+        "name": "Tashkent"
+    },
+    {
+        "id": 10,
+        "name": "Jizzah"
+    },
+    {
+        "id": 11,
+        "name": "Navoiy"
+    }
+]
